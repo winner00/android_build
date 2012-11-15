@@ -24,12 +24,10 @@ PRODUCT_PACKAGES := \
     DeskClock \
     Bluetooth \
     Calculator \
-    Calendar \
     CertInstaller \
     DrmProvider \
     Email2 \
     Exchange2 \
-    Gallery2 \
     LatinIME \
     Launcher2 \
     Settings \
