@@ -24,16 +24,9 @@ PRODUCT_PACKAGES := \
 	Exchange2 \
 	FusedLocation \
 	Gallery \
-	Music \
 	Mms \
-	OpenWnn \
-	libWnnEngDic \
-	libWnnJpnDic \
-	libwnndict \
 	Phone \
-	PinyinIME \
 	Protips \
-	SoftKeyboard \
 	SystemUI \
 	Launcher2 \
 	Development \
@@ -41,7 +34,6 @@ PRODUCT_PACKAGES := \
 	DrmProvider \
 	Fallback \
 	Settings \
-	SdkSetup \
 	CustomLocale \
 	sqlite3 \
 	InputDevices \
@@ -50,8 +42,6 @@ PRODUCT_PACKAGES := \
 	LiveWallpapersPicker \
 	ApiDemos \
 	GestureBuilder \
-	CubeLiveWallpapers \
-	QuickSearchBox \
 	WidgetPreview \
 	monkeyrunner \
 	guavalib \
