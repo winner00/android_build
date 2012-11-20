@@ -28,7 +28,6 @@ PRODUCT_PACKAGES := \
     DrmProvider \
     Email2 \
     Exchange2 \
-    LatinIME \
     Launcher2 \
     Settings \
     Sync \
