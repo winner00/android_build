@@ -20,7 +20,8 @@
 # in inherited configurations.
 
 PRODUCT_PACKAGES := \
-    libfwdlockengine
+    libfwdlockengine \
+    VideoEditor
 
 PRODUCT_PACKAGES += \
     Galaxy4 \
