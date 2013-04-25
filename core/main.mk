@@ -145,7 +145,7 @@ $(info Linaro builds with java version "1.7.0_09" seems to work fine though.)
 $(info AOSP supported machine setup instructions are at)
 $(info $(space)$(space)$(space)$(space)https://source.android.com/source/download.html)
 $(info ************************************************************)
-$(error stop)
+#$(error stop)
 endif
 
 # Check for the correct version of javac
